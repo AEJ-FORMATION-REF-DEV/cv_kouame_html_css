@@ -33,12 +33,14 @@ h2{
 #partiegauche{
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 border-left: 6px solid green;
-border-bottom: 6px solid green;
+border-bottom: green solid 6px;
 font-size: small;
 position: absolute;
-top: 56%;
+top: 52%;
 width: 400px;
-padding: 0.6%;
+padding-bottom: -0.5%;
+padding-left: 0.6%;
+padding-top: 0.6%;
 }
 
 

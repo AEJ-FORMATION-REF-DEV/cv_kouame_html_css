@@ -1,0 +1,66 @@
+
+.info{
+    margin-left: -2vh;
+    font-size: large;
+}
+.mail{
+list-style-type: square;
+}
+.telephone{
+list-style-type: square;
+}
+.domicile{
+ list-style-type: square;
+}
+
+.details{
+    margin-left: -1vw;
+    font-size: large;
+    list-style-type: disc;
+}
+
+
+h2{
+    text-align: center;
+    color: white;
+    border-left: green solid 6px;
+    border-top: green solid 6px;
+    border-right: solid green 6px;
+}
+
+
+
+#partiegauche{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+border-left: 6px solid green;
+border-bottom: 6px solid green;
+font-size: small;
+position: absolute;
+top: 56%;
+width: 400px;
+padding: 0.6%;
+}
+
+
+#partiedroite{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-right: green solid 4px;
+    border-top: solid green 4px;
+    border-bottom: green solid 6px;
+    font-size-adjust: none;
+    font-size: smaller;
+    position: absolute;
+    left: 54.5%;
+    top: 45%;
+    width: 327px;
+    padding: 0.6%;
+    background-color: green;
+}
+
+.gauche{
+display: inline-block;
+}
+
+.droite{
+display: inline-block;
+}
